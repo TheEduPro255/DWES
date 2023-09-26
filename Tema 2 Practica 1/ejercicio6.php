@@ -15,6 +15,7 @@ echo $x." * ".$y." = ". $x * $y."<br>";
 echo $x." / ".$y." = ". $x / $y."<br>";
 echo $x." % ".$y." = ". $x % $y."<br>";   
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
