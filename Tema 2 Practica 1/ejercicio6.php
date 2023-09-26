@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del portfolio
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $x = 10;
 $y = 7;
 echo $x."  + ".$y." = ". $x + $y."<br>";
