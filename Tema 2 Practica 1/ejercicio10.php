@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del ejercicio 10
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $nombre = "Eduardo";
 $edad = 25;
 
