@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del portfolio
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $a = 5;
 $b = 3;
 echo "El resultado de la suma es ". $a + $b."<br>";
