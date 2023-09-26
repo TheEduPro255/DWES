@@ -1,6 +1,11 @@
 <?php
+/** 
+ *Script del portfolio
 
-use function PHPSTORM_META\type;
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
 
 $a = "";
 $b = 3.1416;
