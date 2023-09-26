@@ -1,6 +1,6 @@
 <?php
 /** 
- *Script del portfolio
+ *Script del ejercicio2
 
  *@autor: Eduardo Ruz
  *@Version 0.01a
