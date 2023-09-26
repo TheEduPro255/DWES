@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del portfolio
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $ciclo="DAW";
 $modulo="DWES";
 print "<p>";
