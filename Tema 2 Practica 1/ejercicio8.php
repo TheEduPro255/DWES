@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del portfolio
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $nombre = "Harry";
 $num = 28;
 $valor = null;
@@ -7,6 +15,7 @@ echo $nombre."<br>";
 echo var_dump($num)."<br>";
 echo var_dump($valor)."<br>";
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
