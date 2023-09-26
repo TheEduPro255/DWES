@@ -1,4 +1,12 @@
 <?php
+/** 
+ *Script del portfolio
+
+ *@autor: Eduardo Ruz
+ *@Version 0.01a
+*/
+
+
 $radio = 30;
 const pi = 3.14;
 $longitud = pi * $radio * 2;
