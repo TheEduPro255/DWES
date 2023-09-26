@@ -1,6 +1,6 @@
 <?php
 /** 
- *Script del ejercicio2
+ *Script del ejercicio 2
 
  *@autor: Eduardo Ruz
  *@Version 0.01a
