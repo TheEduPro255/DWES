@@ -11,6 +11,7 @@ $a = 5;
 $b = 3;
 echo "El resultado de la suma es ". $a + $b."<br>";
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
